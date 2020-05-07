@@ -1,0 +1,11 @@
+Stop Server - CNTRL-C
+Start Server -
+cd C:\wamp64\www\online\server
+node server.js
+
+
+Express Server
+Socket IO
+Node.js
+
+https://gamedevacademy.org/create-a-basic-multiplayer-game-in-phaser-3-with-socket-io-part-2/

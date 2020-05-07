@@ -1,0 +1,239 @@
+{
+    "anims": [
+        {
+            "key": "zWalk",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "zombie",
+                    "frame": "walk_000.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "walk_001.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "walk_002.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "walk_003.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "walk_004.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "walk_005.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "walk_006.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "walk_007.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "walk_008.png",
+                    "duration": 0,
+                    "visible": false
+                }
+            ],
+            "frameRate": 7,
+            "duration": 1.5,
+            "skipMissedFrames": true,
+            "delay": 0,
+            "repeat": -1,
+            "repeatDelay": 0,
+            "yoyo": false,
+            "showOnStart": false,
+            "hideOnComplete": false
+        },
+        {
+            "key": "zAttack",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "zombie",
+                    "frame": "Attack_000.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "Attack_001.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "Attack_002.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "Attack_003.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "Attack_004.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "Attack_005.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "Attack_006.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "Attack_007.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "zombie",
+                    "frame": "Attack_008.png",
+                    "duration": 0,
+                    "visible": false
+                }
+            ],
+            "frameRate": 7,
+            "duration": 1.5,
+            "skipMissedFrames": true,
+            "delay": 0,
+            "repeat": -1,
+            "repeatDelay": 0,
+            "yoyo": false,
+            "showOnStart": false,
+            "hideOnComplete": false
+        },
+        {
+            "key": "maleWalk",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "Walk_gun_000.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "player",
+                    "frame": "Walk_gun_001.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "player",
+                    "frame": "Walk_gun_002.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "player",
+                    "frame": "Walk_gun_003.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "player",
+                    "frame": "Walk_gun_004.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "player",
+                    "frame": "Walk_gun_005.png",
+                    "duration": 0,
+                    "visible": false
+                }
+            ],
+            "frameRate": 7,
+            "duration": 1.5,
+            "skipMissedFrames": true,
+            "delay": 0,
+            "repeat": -1,
+            "repeatDelay": 0,
+            "yoyo": false,
+            "showOnStart": false,
+            "hideOnComplete": false
+        },
+        {
+            "key": "maleShoot",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "player",
+                    "frame": "Gun_Shot_000.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "player",
+                    "frame": "Gun_Shot_001.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "player",
+                    "frame": "Gun_Shot_002.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "player",
+                    "frame": "Gun_Shot_003.png",
+                    "duration": 0,
+                    "visible": false
+                },
+                {
+                    "key": "player",
+                    "frame": "Gun_Shot_004.png",
+                    "duration": 0,
+                    "visible": false
+                }
+            ],
+            "frameRate": 20,
+            "duration": 1.5,
+            "skipMissedFrames": true,
+            "delay": 0,
+            "repeat": 0,
+            "repeatDelay": 0,
+            "yoyo": false,
+            "showOnStart": false,
+            "hideOnComplete": false
+        }
+    ],
+    "globalTimeScale": 1
+}
